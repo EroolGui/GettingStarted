@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B843A2F7-739E-40C3-9236-2ED804F94B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulator", "StringManipulator\StringManipulator.csproj", "{9F8B4AC1-9745-4D9E-85BE-BF0FEE3D2B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulator.Tests", "StringManipulator.Tests\StringManipulator.Tests.csproj", "{9C6C1B1D-D157-435A-97CB-A2D1DC274149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8B4AC1-9745-4D9E-85BE-BF0FEE3D2B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8B4AC1-9745-4D9E-85BE-BF0FEE3D2B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8B4AC1-9745-4D9E-85BE-BF0FEE3D2B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8B4AC1-9745-4D9E-85BE-BF0FEE3D2B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6C1B1D-D157-435A-97CB-A2D1DC274149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6C1B1D-D157-435A-97CB-A2D1DC274149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6C1B1D-D157-435A-97CB-A2D1DC274149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6C1B1D-D157-435A-97CB-A2D1DC274149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
